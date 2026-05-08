@@ -1,0 +1,7 @@
+merchant_clean,COUNTA of transaction_id,AVERAGE of risk_score_clean,SUM of high_risk_flag
+Alpha Mart,11,63.6,1
+Beta Stores,11,70.625,4
+City Pharma,2,#DIV/0!,0
+Delta Travels,4,48.66666667,1
+Eco Home,2,65,1
+Grand Total,30,64.35294118,7
